@@ -15,6 +15,9 @@
 - **Update an Employee:** Make changes to their information/details and save the updated data.
 
 - **View All Employees**: Fetch all employees from the database in a single click.
+
+  ## Screenshots
+  ![App Screenshot](https://github.com/Tanwar-12/Employee-Management-System-in-Python-Tkinter-Frontend-MySQL-Backend-/blob/main/Screenshots/add_an_employee.png)
 ## Setup
 - Fork this repo
 - Clone repo
