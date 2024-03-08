@@ -18,6 +18,9 @@
 
   ## Screenshots
   ![App Screenshot](https://github.com/Tanwar-12/Employee-Management-System-in-Python-Tkinter-Frontend-MySQL-Backend-/blob/main/Screenshots/add_an_employee.png)
+![App Screenshot ](https://github.com/Tanwar-12/Employee-Management-System-in-Python-Tkinter-Frontend-MySQL-Backend-/blob/main/Screenshots/view_all_employee.png)
+
+  
 ## Setup
 - Fork this repo
 - Clone repo
